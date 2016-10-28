@@ -1,0 +1,2 @@
+# firebasestructure
+Classadoo generated repo
