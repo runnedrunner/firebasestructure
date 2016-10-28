@@ -1,1 +1,1 @@
-addlistItem("stuff", "stuff");
+storeValue("nestedKey1", "hi!");
