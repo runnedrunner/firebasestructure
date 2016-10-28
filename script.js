@@ -3,6 +3,6 @@ var key1 = {
   "nestedKey2": "bye!"
 }
 var key2 = {
-  "nestedkey1": {"nestedkey2": {"nestedkKey5": {}}}
+  "nestedkey1": {"nestedkey2": {"nestedkKey5": {"notasNestedKey": "I'm not as nested!"}}}
 }
-storeValue("key1", key1);
+storeValue("key2", key2);
